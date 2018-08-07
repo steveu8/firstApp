@@ -7,7 +7,7 @@ using Microsoft.AspNetCore;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.Logging;
-//ma premiere application
+//ma premiere application à moi
 namespace premiereAppli
 {
     public class Program
